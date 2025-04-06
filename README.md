@@ -1,3 +1,3 @@
 # odin-recipes
 
-In this project, I have created a very basic recipe website using only HTML. Later, I plan to use CSS to improve the style. I have demonstrated my knowledge to add text, links, and photos to a page.
+In this project, I have started a very basic recipe website using only HTML. I have since added very bad CSS to this site and plan on updating in the future once I have expanded my mind.
