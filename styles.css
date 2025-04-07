@@ -22,12 +22,13 @@
 }
 
 li, a {
-    margin: 16px 350px;
+    margin: 16px auto;
     padding: 16px;
     color: #f2e8cf;
     background-color: #386641;
     text-decoration: none;
     border-radius: 30px;
+    width: 500px;
 }
 
 .color-change {
